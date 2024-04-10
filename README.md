@@ -114,7 +114,11 @@ for i in range(0,9):
 
 ### Global Thresholding
 <br>![Screenshot 2024-04-10 132938](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/e08cb0f3-4b11-42aa-af9e-f17e10337f4e)
+
+
 ![Screenshot 2024-04-10 133001](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/0d2b901a-80f6-438a-995a-a8a9d3a91721)
+
+
 ![Screenshot 2024-04-10 133019](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/de79c1ce-8b89-4741-812b-d13935e8aeae)
 
 
