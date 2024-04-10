@@ -34,8 +34,8 @@ Display the results.
 
 ## Program
 ```
-Developed by: Lathikeshwaran J
-Register number :212222230072
+Developed by: HARISH G
+Register number :212222243001
 ```
 # Load the necessary packages
 ```python
@@ -106,45 +106,32 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-<br>
 
-![image](https://github.com/roshiniRK/THRESHOLDING/assets/118956165/1e3a613a-3f98-4b9b-920d-0fd113e01d42)
+![Screenshot 2024-04-10 114617](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/0e82d5f3-5486-4840-8cfb-4046529387d4)
 
 
-<br>
 
 
 ### Global Thresholding
-<br>
-
-![image](https://github.com/roshiniRK/THRESHOLDING/assets/118956165/9aa0d99a-16b1-4ee4-b817-807f01abc5ef)
-![image](https://github.com/roshiniRK/THRESHOLDING/assets/118956165/3a93458f-972d-4336-b7f1-eb42d972fe89)
-![image](https://github.com/roshiniRK/THRESHOLDING/assets/118956165/453fad6b-f6ac-4411-984f-e3d7201d18c7)
+<br>![Screenshot 2024-04-10 132938](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/e08cb0f3-4b11-42aa-af9e-f17e10337f4e)
+![Screenshot 2024-04-10 133001](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/0d2b901a-80f6-438a-995a-a8a9d3a91721)
+![Screenshot 2024-04-10 133019](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/de79c1ce-8b89-4741-812b-d13935e8aeae)
 
 
-
-
-<br>
 
 
 ### Adaptive Thresholding
-<br>
 
-![image](https://github.com/roshiniRK/THRESHOLDING/assets/118956165/0b5bcebc-9f8e-46cf-bcbd-8bc89cd2b492)
-
+![Screenshot 2024-04-10 133056](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/3230fd20-98b1-4401-9cd6-f9e654039c2e)
 
 
-<br>
 
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
 
-![image](https://github.com/roshiniRK/THRESHOLDING/assets/118956165/f319a0ac-c702-4357-83ac-77d16da8443f)
-
+![Screenshot 2024-04-10 133140](https://github.com/Harish2404lll/THRESHOLDING-/assets/141472096/fc49849e-0f88-4137-8f6f-855b05f05938)
 
 
-<br>
 
 
 
